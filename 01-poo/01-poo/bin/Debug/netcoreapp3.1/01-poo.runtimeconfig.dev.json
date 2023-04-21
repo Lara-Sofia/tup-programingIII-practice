@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Larata\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Larata\\.nuget\\packages"
+    ]
+  }
+}
