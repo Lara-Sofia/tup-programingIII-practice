@@ -1,0 +1,15 @@
+C:\Users\Larata\Desktop\UTN\programación III\tup-programingIII-practice\02-poo\poo-02\poo-02\bin\Debug\net7.0\poo-02.exe
+C:\Users\Larata\Desktop\UTN\programación III\tup-programingIII-practice\02-poo\poo-02\poo-02\bin\Debug\net7.0\poo-02.deps.json
+C:\Users\Larata\Desktop\UTN\programación III\tup-programingIII-practice\02-poo\poo-02\poo-02\bin\Debug\net7.0\poo-02.runtimeconfig.json
+C:\Users\Larata\Desktop\UTN\programación III\tup-programingIII-practice\02-poo\poo-02\poo-02\bin\Debug\net7.0\poo-02.dll
+C:\Users\Larata\Desktop\UTN\programación III\tup-programingIII-practice\02-poo\poo-02\poo-02\bin\Debug\net7.0\poo-02.pdb
+C:\Users\Larata\Desktop\UTN\programación III\tup-programingIII-practice\02-poo\poo-02\poo-02\obj\Debug\net7.0\poo-02.csproj.AssemblyReference.cache
+C:\Users\Larata\Desktop\UTN\programación III\tup-programingIII-practice\02-poo\poo-02\poo-02\obj\Debug\net7.0\poo-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larata\Desktop\UTN\programación III\tup-programingIII-practice\02-poo\poo-02\poo-02\obj\Debug\net7.0\poo-02.AssemblyInfoInputs.cache
+C:\Users\Larata\Desktop\UTN\programación III\tup-programingIII-practice\02-poo\poo-02\poo-02\obj\Debug\net7.0\poo-02.AssemblyInfo.cs
+C:\Users\Larata\Desktop\UTN\programación III\tup-programingIII-practice\02-poo\poo-02\poo-02\obj\Debug\net7.0\poo-02.csproj.CoreCompileInputs.cache
+C:\Users\Larata\Desktop\UTN\programación III\tup-programingIII-practice\02-poo\poo-02\poo-02\obj\Debug\net7.0\poo-02.dll
+C:\Users\Larata\Desktop\UTN\programación III\tup-programingIII-practice\02-poo\poo-02\poo-02\obj\Debug\net7.0\refint\poo-02.dll
+C:\Users\Larata\Desktop\UTN\programación III\tup-programingIII-practice\02-poo\poo-02\poo-02\obj\Debug\net7.0\poo-02.pdb
+C:\Users\Larata\Desktop\UTN\programación III\tup-programingIII-practice\02-poo\poo-02\poo-02\obj\Debug\net7.0\poo-02.genruntimeconfig.cache
+C:\Users\Larata\Desktop\UTN\programación III\tup-programingIII-practice\02-poo\poo-02\poo-02\obj\Debug\net7.0\ref\poo-02.dll
