@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Xml.Linq;
 
 namespace _01_poo
 {
@@ -7,6 +8,8 @@ namespace _01_poo
         static void Main(string[] args)
         {
             string line = "----------";
+            //Create an object of MyClass called myObj.
+            MyClass myObj = new MyClass();
 
             //to convert the int variable to a string
             int myInt = 10;
@@ -61,6 +64,45 @@ namespace _01_poo
             Console.WriteLine(line);
 
 
+            //-----ARRAY------
+            //Create an array of type string called cars.
+            string[] cars = { "Volvo", "BMW", "Ford", "Mazda" };
+            Console.WriteLine(line);
+
+            //Change the value from "Volvo" to "Opel", in the cars array.
+            cars[0] = "Opel";
+            Console.WriteLine(cars[0]);
+            Console.WriteLine(line);
+
+            //Use the correct method to sort the cars array.
+            Array.Sort(cars);
+            foreach (string i in cars)
+            {
+                Console.WriteLine(i);
+            }
+            Console.WriteLine(line);
+
+            //Method
+            MyMethod("Liam");
+            MyMethod("Jenny");
+            MyMethod("Anja");
+            Console.WriteLine(line);
+            
+            Console.WriteLine(MyMethod(3));
+            Console.WriteLine(line);
+        }
+
+        //Add a fname parameter of type string to MyMethod.
+        static void MyMethod(string fname)
+        {
+            Console.WriteLine(fname + " Refsnes");
+        }
+        
+
+        //missing part to print the number 8 in Main, by using a specific keyword inside MyMethod:
+        static int MyMethod(int x)
+        {
+           return  5 + x;
         }
     }
 }
